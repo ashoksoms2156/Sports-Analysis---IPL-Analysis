@@ -27,8 +27,11 @@ Slicers
 It holds all the years in which ipl is played. It is used to analyse the data in depth, it is main slicer in our dashboard.
 - Batter:
 It contains info of all the batters. Used to analysis batting stats of each batter (runs, fours, sixes, strike rate)
+
 - Bowler:
 It Contains info of all bowlers of all seasons. it further helpful to analyse bowling stats of each bower (Wickets, Economy, Average, Bowlers Strike Rate)
+
+
 Kip’s : 
 - Trophy Winner:
 - Orange Cap 
@@ -38,7 +41,9 @@ Kip’s :
 Batting Stats:
 -	Runs, Fours, Sixes, Strike Rate.
 Bowling Stats:
--	Wickets, Economy, Average, Bowler’s Strike Rate. 
+-	Wickets, Economy, Average, Bowler’s Strike Rate.
+
+ 
 Visuals: 
 1.	Matches Win by Win Type:
   	Provides win statistics categorized by victory type (wickets, runs) and inconclusive outcomes (draws, no results).
